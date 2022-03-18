@@ -1,0 +1,16 @@
+.income {
+    border-right: 10px solid brown;
+    border-radius: 20px;
+}
+
+.income:hover {
+    background: aquamarine;
+    color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.expense:hover {
+    background: brown;
+    color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
